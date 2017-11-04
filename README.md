@@ -1,7 +1,7 @@
 # The-recognition-and-geometric-correction-of-interested-objects-in-natural-images
 The recognition and geometric correction of interested objects in natural images
 
-## Task 1 image processing
+## Task 1 Image processing
 
 t1-1 Preprocessing
 
@@ -9,7 +9,7 @@ t1-2 Edge detecting
 
 t1-3 Geometric correction
 
-## task 2 learning
+## Task 2 Learning
 
 t2-1 Preprocessing
 
